@@ -1,0 +1,472 @@
+Object Oriented Programming (Through C++ and Java)
+CS - 2115 
+│
+├── UNIT I
+│   ├── Introduction to Object-Oriented Programming
+│   │   ├── Characteristics of OOP
+│   │   ├── Dynamic Binding
+│   │   ├── Message Passing
+│   │   ├── Tokens
+│   │   ├── Expressions
+│   │   ├── Data Types
+│   │   ├── Variables
+│   │   ├── Operators
+│   │   ├── Control Statements
+│   │   ├── Arrays
+│   │   └── String Handling
+├── UNIT II
+│   ├── Fundamentals of OOP
+│   │   ├── Classes and Objects
+│   │   ├── Constructors and Destructors
+│   │   ├── Memory Management
+│   │   │   ├── new and delete Operators
+│   │   ├── Inheritance
+│   │   │   ├── Access Modes
+│   │   ├── Function Overloading
+│   │   ├── Operator Overloading
+│   │   ├── Friend Functions
+│   │   ├── Function Arguments
+│   │   │   ├── Pass by Value
+│   │   │   ├── Pass by Reference
+│   │   ├── Polymorphism
+│   │   │   ├── Dynamic Polymorphism
+│   │   │   │   ├── Virtual Functions
+│   │   │   │   ├── Pure Virtual Functions
+│   │   │   │   ├── Abstract Class
+│   │   ├── Exception Handling
+│   │   ├── File Handling
+│   │   └── Templates
+├── UNIT III
+│   ├── Java
+│   │   ├── Introduction
+│   │   ├── JVM (Java Virtual Machine)
+│   │   ├── Byte Code
+│   │   ├── Data Types
+│   │   ├── Variables
+│   │   ├── Arrays
+│   │   ├── Operators
+│   │   ├── Control Statements
+│   │   ├── Classes and Objects
+│   │   ├── Method Overloading
+│   │   ├── Member Access and Inheritance
+│   │   ├── Method Overriding
+│   │   ├── Using super and final
+│   │   ├── Defining a Package
+│   │   ├── Understanding CLASSPATH
+│   │   ├── Importing Packages
+│   │   ├── Interface
+│   │   └── Interface Implementations
+├── UNIT IV
+│   ├── Multithreaded Programming
+│   │   ├── Lifecycle of a Thread
+│   │   ├── Creating a Thread
+│   │   ├── Implementing Runnable
+│   │   ├── Extending Thread
+│   │   ├── Thread Priorities
+│   │   ├── Using Synchronized Methods
+│   │   ├── Suspending, Resuming, and Stopping Threads
+│   ├── Applet Resource Space
+│   │   ├── Applet Lifecycle
+│   │   ├── Applet Class
+│   │   ├── Creating Applets
+│   ├── AWT (Abstract Window Toolkit)
+│   │   ├── Using AWT Controls
+│   │   └── Layout Managers
+
+
+
+Computer Networks and Security
+CS - 2116
+│
+├── UNIT I
+│   ├── Introduction
+│   │   ├── Review of Data Communication Concepts
+│   │   ├── Wired and Wireless Networks
+│   │   ├── Reference Models
+│   │   │   ├── OSI Model
+│   │   │   ├── TCP/IP Model
+│   │   │   ├── Comparison of OSI and TCP/IP
+│   │   ├── Services of Physical Layer
+│   │   └── Services of Data Link Layer
+│   ├── Network Layer
+│   │   ├── Logical Addressing
+│   │   │   ├── IPv4
+│   │   │   ├── IPv6
+│   │   │   ├── Packet Formats and Comparison
+│   │   ├── Routing Algorithms
+│   │   │   ├── Distance Vector Routing
+│   │   │   ├── Link State Routing
+│   │   │   ├── Hierarchical Routing
+│   │   │   ├── Broadcast Routing
+│   │   │   ├── Multicast Routing
+│   │   ├── Congestion Control
+│   │   │   ├── Principles of Congestion Control
+│   │   │   ├── Congestion Prevention Policies
+│   │   │   ├── Congestion Control Algorithms
+│   │   │   │   ├── Leaky Bucket
+│   │   │   │   ├── Token Bucket
+│   │   │   │   ├── Choke Packet
+│   │   │   │   └── Load Shedding
+├── UNIT II
+│   ├── Transport Layer
+│   │   ├── Process-to-Process Delivery
+│   │   ├── Addressing
+│   │   ├── Establishing and Releasing Connection
+│   │   ├── Flow Control
+│   │   ├── Buffering
+│   │   ├── Transport Protocols
+│   │   │   ├── TCP (Transmission Control Protocol)
+│   │   │   ├── UDP (User Datagram Protocol)
+│   ├── Application Layer
+│   │   ├── WWW (World Wide Web) and HTTP
+│   │   ├── File Transfer Protocol (FTP)
+│   │   ├── Domain Name System (DNS)
+│   │   └── SMTP (Simple Mail Transfer Protocol)
+├── UNIT III
+│   ├── Network Security - I
+│   │   ├── Introduction
+│   │   ├── Need for Security
+│   │   ├── Security Approaches
+│   │   ├── Principles of Security
+│   │   ├── Types of Attacks
+│   │   │   ├── Passive Attacks
+│   │   │   ├── Active Attacks
+│   │   ├── Cryptography Techniques
+│   │   │   ├── Introduction
+│   │   │   ├── Plain Text and Cipher Text
+│   │   │   ├── Substitution Techniques
+│   │   │   ├── Transposition Techniques
+│   ├── Encryption and Decryption
+│   │   ├── Symmetric Key Cryptography
+│   │   │   ├── Data Encryption Standard (DES)
+│   │   │   ├── Advanced Encryption Standard (AES)
+│   │   ├── Asymmetric Key Cryptography
+│   │   │   ├── RSA Algorithm
+├── UNIT IV
+│   ├── Web Security
+│   │   ├── Secure Sockets Layer (SSL)
+│   │   │   ├── Architecture
+│   │   │   ├── Protocols
+│   │   │   ├── SSL Message Formats
+│   │   ├── Transport Layer Security (TLS)
+│   │   ├── Time Stamping Protocol (TSP)
+│   │   ├── HTTPS
+│   │   ├── Secure Electronic Transaction (SET)
+│   ├── System Security
+│   │   ├── Intruders
+│   │   ├── Intrusion Detection
+│   │   ├── Password Management
+│   │   ├── Firewalls
+│   │   │   ├── Packet Filter Firewall
+│   │   │   ├── Proxy Firewall
+
+
+
+
+
+
+Paper Title: Artificial Intelligence and Soft Computing
+Paper Code: CS – 2124 
+│
+├── UNIT I
+│   ├── Introduction to Artificial Intelligence (AI) and Heuristic Search Technologies
+│   │   ├── Introduction to AI Technique
+│   │   ├── Turing Test
+│   │   ├── History and Developments in AI
+│   │   ├── Applications of AI
+│   │   ├── State Space Representation
+│   │   ├── Production Systems and Problem Characteristics
+│   ├── Introduction to Heuristic Search
+│   │   ├── Generate and Test
+│   │   ├── Hill Climbing
+│   │   ├── Best First Search
+│   │   ├── A* Algorithm
+│   │   ├── Problem Reduction: AO*
+│   │   ├── Constraint Satisfaction
+│   │   └── Means-Ends-Analysis Techniques
+├── UNIT II
+│   ├── Knowledge Representation and Resolution Principle
+│   │   ├── Expert System Characteristics
+│   │   ├── Architecture and Examples
+│   │   ├── Introduction to Natural Language Processing (NLP)
+│   │   └── NLP Process
+│   ├── Introduction to Soft Computing
+│   │   ├── Neural Networks
+│   │   ├── Fuzzy Logic
+│   │   ├── Genetic Algorithms
+│   │   ├── Hybrid Systems
+│   │   └── Applications of Soft Computing
+│   ├── Artificial Neural Network
+│   │   ├── Characteristics of Neural Networks
+│   │   ├── Basic Building Blocks of Artificial Neural Networks
+│   │   ├── Connections
+│   │   ├── Learning Methods
+│   │   ├── Activation Functions
+│   │   └── Neural Network Architectures
+│   ├── Supervised Learning Networks
+│   │   ├── Introduction to Supervised Learning
+│   │   ├── Architecture of Supervised Learning Networks
+│   │   ├── Training Algorithms for Perceptron Network
+│   │   └── Back Propagation Networks
+├── UNIT III
+│   ├── Unsupervised Learning Networks
+│   │   ├── Introduction to Unsupervised Learning
+│   │   ├── Architecture of Unsupervised Learning Networks
+│   │   ├── Training Algorithms for Kohonen Self-Organizing Maps
+│   ├── Classification Techniques
+│   │   ├── Introduction to Classification
+│   │   ├── k-Nearest Neighbors (k-NN)
+│   │   ├── Random Forest
+│   │   ├── Support Vector Machines (SVM)
+│   ├── Clustering and Data Reduction
+│   │   ├── Clustering using K-Means
+│   │   ├── Data Reduction using Principal Component Analysis (PCA)
+├── UNIT IV
+│   ├── Fuzzy Logic and Control Systems
+│   │   ├── Introduction to Fuzzy Logic
+│   │   ├── Applications of Fuzzy Logic
+│   │   ├── Fuzzy Techniques
+│   │   ├── Membership Functions
+│   │   │   ├── Features of Membership Functions
+│   │   │   ├── Methods of Membership Value Assignment
+│   │   ├── Defuzzification Methods
+│   │   ├── Architecture of Fuzzy Logic Control (FLC) Systems
+│   ├── Genetic Algorithms
+│   │   ├── Basic Terminologies in Genetic Algorithms
+│   │   │   ├── Genes
+│   │   │   ├── Fitness
+│   │   │   ├── Populations
+│   │   ├── General Genetic Algorithm
+│   │   ├── Operations in Genetic Algorithm
+│   │   │   ├── Selection
+│   │   │   ├── Crossover
+│   │   │   ├── Mutation
+│   │   ├── Applications of Genetic Algorithms
+
+
+
+
+
+Paper Title : Web Technologies and Python Programming
+Paper Code : CS – 2118 Max. Marks : 80 Time : 3 Hrs.
+│
+├── UNIT I
+│   ├── Introduction
+│   │   ├── World Wide Web
+│   │   ├── Web Browser
+│   │   ├── Web Server
+│   │   ├── HTML
+│   │   │   ├── Basic Tags
+│   │   │   ├── Text Formatting
+│   │   │   ├── Emphasizing Material in a Web Page
+│   │   │   ├── Text Styles
+│   │   │   ├── Spacing
+│   │   │   ├── Lists
+│   │   │   ├── Adding Graphics
+│   │   │   ├── Tables
+│   │   │   ├── Frames
+│   │   │   └── Linking Documents
+│   ├── Cascading Style Sheets (CSS)
+│   │   ├── Introduction
+│   │   ├── Levels of Style Sheets
+│   │   ├── Style Specification Format
+│   │   ├── Selectors
+│   │   ├── Forms
+│   │   ├── Property Value Form
+│   │   ├── Font Properties
+│   │   ├── List Properties
+│   │   ├── Color
+│   │   ├── Alignment
+│   │   ├── Box Model
+│   │   ├── Background Images
+│   │   ├── `<span>` Tag
+│   │   └── `<div>` Tag
+│   ├── JavaScript
+│   │   ├── Introduction
+│   │   ├── Object Orientation and JavaScript
+│   │   ├── Syntactic Features
+│   │   ├── Primitives, Operations, and Expressions
+│   │   ├── Output & Input
+│   │   ├── Control Statements
+│   │   ├── Object Creation and Modification
+│   │   ├── Arrays
+│   │   ├── Functions
+│   │   ├── Constructors
+│   │   ├── Pattern Matching using Regular Expressions
+│   │   ├── JavaScript Execution Environment
+│   │   ├── Document Object Model (DOM)
+│   │   │   ├── Element Access in JavaScript
+│   │   │   ├── Events
+│   │   │   ├── Event Handling
+│   │   │   │   ├── Body Elements
+│   │   │   │   ├── Button Elements
+│   │   │   │   ├── Textbox
+│   │   │   │   ├── Password Elements
+│   │   │   └── DOM2 Event Model
+├── UNIT II
+│   ├── XML
+│   │   ├── Introduction
+│   │   ├── Syntax
+│   │   ├── Document Structure
+│   │   ├── Document Type Definition (DTD)
+│   │   ├── Namespaces
+│   │   ├── XML Schemas
+│   │   ├── Displaying Raw XML Documents
+│   │   ├── Displaying XML Documents with CSS
+│   │   ├── XSLT Style Sheets
+│   │   └── XML Processor
+│   ├── AJAX
+│   │   ├── Introduction
+│   │   ├── AJAX Components
+│   │   ├── Handling Dynamic HTML with AJAX
+│   │   ├── Using CSS to Define Look and Feel
+│   │   ├── AJAX using XML and XMLHttpRequest
+│   │   │   ├── Introduction
+│   │   │   ├── Accessing, Creating, and Modifying XML Nodes
+│   │   │   ├── Loading XML Data into an HTML Page
+│   │   │   ├── Receiving XML Responses
+│   │   │   └── Handling Response XML
+│   ├── AngularJS
+│   │   ├── MVC Architecture
+│   │   ├── Directives
+│   │   ├── Expressions
+│   │   ├── Controllers
+│   │   ├── Filters
+│   │   ├── Tables
+│   │   ├── Modules
+│   │   ├── Forms
+│   │   ├── Includes
+│   │   ├── Views
+│   │   ├── Scopes
+│   │   ├── Services
+│   │   ├── Dependency Injection
+│   │   ├── Custom Directives
+│   │   └── Internationalization
+├── UNIT III
+│   ├── Python
+│   │   ├── Python Variables
+│   │   ├── Python Basic Operators
+│   │   ├── Python Blocks
+│   │   ├── Data Types
+│   │   │   ├── Numeric Data Types: int, float, complex
+│   │   │   ├── String Data Type and String Operations
+│   │   │   ├── List Data Type and List Slicing
+│   │   │   └── Tuple Data Type
+│   ├── Program Flow Control
+│   │   ├── Conditional Blocks: if, else, elif
+│   │   ├── Loops
+│   │   │   ├── for Loops
+│   │   │   │   ├── Using Ranges
+│   │   │   │   ├── Using Strings
+│   │   │   │   ├── Using Lists
+│   │   │   │   └── Using Dictionaries
+│   │   │   ├── while Loops
+│   │   │   ├── Loop Manipulation
+│   │   │   │   ├── pass
+│   │   │   │   ├── continue
+│   │   │   │   ├── break
+│   │   │   │   └── else
+│   │   └── Programming using Conditional and Loop Blocks
+├── UNIT IV
+│   ├── Python Functions, Modules, and Packages
+│   │   ├── Organizing Python Code using Functions
+│   │   ├── Organizing Python Projects into Modules
+│   │   ├── Importing Own and External Modules
+│   │   ├── Understanding Packages
+│   │   └── Lambda Functions
+│   ├── Python File Operations
+│   │   ├── Reading Config Files
+│   │   ├── Writing Log Files
+│   │   ├── Read Functions
+│   │   │   ├── read()
+│   │   │   ├── readline()
+│   │   │   └── readlines()
+│   │   ├── Write Functions
+│   │   │   ├── write()
+│   │   │   └── writelines()
+│   │   ├── Manipulating File Pointer using seek
+│   │   ├── Programming using File Operations
+│   │   ├── Classes
+│   │   ├── Exception Handling
+│   │   ├── SQLite
+│   │   └── Database Connectivity
+│   ├── Django Framework
+│   │   ├── Introduction
+│   │   ├── Web Development
+│   │   └── Sample Application
+
+
+
+
+
+
+Paper Title: Analysis and Design of Algorithms
+Paper Code: CS – 2119 
+│
+├── UNIT I
+│   ├── Algorithms and Analysis
+│   │   ├── Introduction
+│   │   ├── Algorithm Specification
+│   │   ├── Recursive Algorithms
+│   │   ├── Space and Time Complexity
+│   │   ├── Asymptotic Notation
+│   │   │   ├── Big O (O)
+│   │   │   ├── Omega (Ω)
+│   │   │   ├── Theta (Θ)
+│   │   │   ├── Little o (o)
+│   │   │   └── Little omega ()
+│   │   ├── Practical Complexities
+│   │   ├── Best, Average, and Worst Case Performance
+│   │   ├── Examples
+│   │   ├── Introduction to Recurrence Relations
+│   │   └── Solving Recurrence Relations using Repeated Substitutions
+│   ├── Divide and Conquer
+│   │   ├── General Method
+│   │   ├── Binary Search
+│   │   ├── Merge Sort
+│   │   ├── Quick Sort
+│   │   ├── Selection Problem
+│   │   ├── Matrix Multiplication using Divide and Conquer
+│   │   ├── Strassen’s Method
+│   │   └── Analysis of these Problems
+├── UNIT II
+│   ├── Greedy Method
+│   │   ├── General Method
+│   │   ├── Knapsack Problem
+│   │   ├── Job Sequencing with Deadlines
+│   │   ├── Minimum Spanning Trees
+│   │   └── Analysis of these Problems
+│   ├── Dynamic Programming
+│   │   ├── General Method
+│   │   ├── Optimal Binary Search Trees
+│   │   ├── 0/1 Knapsack
+│   │   └── Travelling Salesperson Problem
+├── UNIT III
+│   ├── Backtracking
+│   │   ├── General Method
+│   │   ├── 8 Queen's Problem
+│   │   ├── Graph Coloring
+│   │   ├── Hamiltonian Cycles
+│   │   └── Analysis of These Problems
+│   ├── Branch-And-Bound
+│   │   ├── General Method
+│   │   ├── Least Cost Search
+│   │   ├── Upper Bounding
+│   │   ├── 0/1 Knapsack
+│   │   ├── Travelling Salesperson Problem
+│   │   └── Dynamic State Space Organization for Travelling Salesperson Problem
+├── UNIT IV
+│   ├── Lower-Bound Theory
+│   │   ├── Introduction to Lower Bounds
+│   │   ├── Comparison Trees
+│   │   ├── Lower Bounds for Ordered Searching and Sorting
+│   │   ├── Lower Bounds on Parallel Computations
+│   │   │   └── Lower Bound on Average Case Sorting
+│   ├── NP-Hard and NP-Complete Problems
+│   │   ├── Basic Concepts
+│   │   ├── Deterministic and Non-Deterministic Algorithms
+│   │   ├── NP-Hard and NP-Complete Classes
+│   │   ├── Statement of Cook's Theorem
+│   │   ├── Examples of NP-Hard Graph Problems
+│   │   ├── Examples of NP-Hard Scheduling Problems
+│   │   └── NP-Hard Graph Problem with Proof: Clique Decision Problem
