@@ -1,0 +1,13 @@
+public class leetcode136 {
+  public static void main(String[] args) {}
+}
+
+class Solution {
+  public int singleNumber(int[] nums) {
+    int start = nums[0];
+    for (int i = 1; i < nums.length; i++) {
+      start ^= nums[i];
+    }
+    return start;
+  }
+}
